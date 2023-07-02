@@ -1,1 +1,1 @@
-# fashion-factory
+# Fashion Factory
